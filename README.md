@@ -22,18 +22,26 @@ I've gained practical exposure through Machine Learning internships, including e
 
 
 🛠️ Tech Stack
-👨‍💻 Programming
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" /> </p>
-🤖 Machine Learning & Data Science
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> </p>
-🧠 Deep Learning & AI
-<p align="left"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=openai&logoColor=white"/> </p>
+🛠️ Tech Stack
+<div align="center">
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /> </p> <p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+📊 Data Science & Analytics
+<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/> </p>
+🤖 Machine Learning
+<p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white"/> </p> <p> <img src="https://img.shields.io/badge/Supervised%20Learning-2E86C1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Unsupervised%20Learning-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Feature%20Engineering-E67E22?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-16A085?style=for-the-badge"/> </p>
+🧠 Deep Learning
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/CNN-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/RNN-3498DB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer%20Learning-27AE60?style=for-the-badge"/> </p>
 ✨ Generative AI
-<p align="left"> <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=llm&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Agents-1E90FF?style=for-the-badge&logo=robot&logoColor=white"/> </p>
-🔧 Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /> </p>
-💼 Experience
-<table> <tr> <td width="50%">
+<p> <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/> </p> <p> <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Embeddings-3498DB?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-1E90FF?style=for-the-badge"/> </p>
+🔎 NLP
+<p> <img src="https://img.shields.io/badge/Natural%20Language%20Processing-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/Text%20Classification-3498DB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Text%20Generation-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sentiment%20Analysis-27AE60?style=for-the-badge"/> </p>
+🗄️ Databases & Vector Storage
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> </p> <p> <img src="https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge"/> <img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge"/> </p>
+🔧 Development Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" /> </p> <p> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
+☁️ Deployment & Cloud
+<p> <img src="https://skillicons.dev/icons?i=aws,gcp" /> </p> <p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p> </div>
 🛡️ DRDO
 🤖 Machine Learning Internship
 
