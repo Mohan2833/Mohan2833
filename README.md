@@ -19,36 +19,7 @@ I've gained practical exposure through Machine Learning internships, including e
 🚀 Building AI Applications
 🔬 Research & Problem Solving
 
-</td> <td width="45%"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/> </td> </tr> </table>
-🧠 My AI Journey
-                 ┌─────────────────────┐
-                 │    👨‍🎓 STUDENT      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   🐍 PYTHON & SQL   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ 🤖 MACHINE LEARNING │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   🧠 DEEP LEARNING  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ ✨ GENERATIVE AI    │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   🚀 AI ENGINEERING │
-                 └─────────────────────┘
+
 
 🛠️ Tech Stack
 👨‍💻 Programming
@@ -64,6 +35,7 @@ I've gained practical exposure through Machine Learning internships, including e
 💼 Experience
 <table> <tr> <td width="50%">
 🛡️ DRDO
+🤖 Machine Learning Internship
 
 Research / Internship Experience
 
@@ -72,18 +44,6 @@ Research / Internship Experience
 📊 Data & problem solving
 🧠 Technical exploration
 🚀 Real-world applications
-
-</td> <td width="50%">
-🤖 Machine Learning Internship
-
-ML Internship Experience
-
-🐍 Python
-📊 Data Analysis
-🧹 Data Preprocessing
-⚙️ Feature Engineering
-🤖 ML Algorithms
-📈 Model Evaluation
 
 </td> </tr> </table>
 🚀 Featured Projects
