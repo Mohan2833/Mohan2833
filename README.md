@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ --> <!-- HEADER --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohan%20B&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20"/> </div> <h1 align="center">👋 Hey there, I'm Mohan B</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Final+Year+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+Explorer+%E2%9C%A8;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+AI+Solutions+for+Real+World+Problems+%F0%9F%9A%80"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D9FF&style=for-the-badge" /> </p>
 🧑‍💻 About Me
 <table> <tr> <td width="55%">
-🚀 Who Am I?
 
 I'm Mohan B, a Final Year Student passionate about Artificial Intelligence, Machine Learning, and Generative AI.
 
